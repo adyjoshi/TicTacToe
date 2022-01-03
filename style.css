@@ -5,7 +5,7 @@
 }
 
 .background{
-    background-color: rgb(44, 31, 31);
+    background-color: rgb(134, 101, 101);
     height: 100vh;
     padding-top: 1px;
 }
@@ -51,11 +51,11 @@
 }
 
 .playerX{
-    color: green;
+    color: rgb(255, 17, 176);
 }
 
 .playerO{
-    color: blue;
+    color: rgb(59, 3, 66);
 }
 
 .controls{
